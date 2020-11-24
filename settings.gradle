@@ -1,0 +1,5 @@
+rootProject.name = 'facebook'
+
+
+enableFeaturePreview('GRADLE_METADATA')
+include(":lib")
